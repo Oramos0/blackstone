@@ -1,0 +1,14 @@
+body {
+  background-color: #37474f;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.App {
+  text-align: center;
+  max-height: 150vh;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: flex-start
+}
